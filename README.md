@@ -10,7 +10,7 @@ My goal is to enhance my knowledge and improve my skills. I am looking for new o
 
 Feel free to reach out to me personally.
 
-[![Linkedin](https://img.shields.io/badge/Find_me_on_LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicovollmer/) [![img](https://custom-icon-badges.demolab.com/badge/eMail:-nicovollmer@icloud.com-red.svg?style=flat-square&logo=mail&logoColor=white)](nicovollmer@icloud.com)
+[![Linkedin](https://img.shields.io/badge/Find_me_on_LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicovollmer/) [![img](https://custom-icon-badges.demolab.com/badge/eMail:-nicovollmer@icloud.com-red.svg?style=flat-square&logo=mail&logoColor=white)](mailto:nicovollmer@icloud.com)
 
 ## My Highlighed Projects
 
