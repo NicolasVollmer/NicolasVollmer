@@ -1,4 +1,4 @@
-![Banner](https://github.com/NicolasVollmer/NicolasVollmer/blob/main/Images/Git%20Banner.001.jpeg?raw=true)
+![Banner](https://github.com/NicolasVollmer/NicolasVollmer/blob/main/Images/Git%20Banner.002.jpeg?raw=true)
 
 # Welcome to my GitHub Portfolio
 
