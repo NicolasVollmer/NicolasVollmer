@@ -1,6 +1,16 @@
+![Banner](https://github.com/NicolasVollmer/NicolasVollmer/blob/main/Images/Git%20Banner.001.jpeg?raw=true)
+
 # Welcome to my GitHub Portfolio
 
-**Hi there! My name is Nicolas Vollmer and I'm a data analyst with business background.**
+## Hi there! My name is Nicolas Vollmer and I'm a data analyst with business background.
+
+### Ways to Connect
+
+My goal is to enhance my knowledge and improve my skills. I am looking for new opportunities in Data Analytics and Business Intelligence and am available to work full-time in and around Düsseldorf, Germany. 
+
+Feel free to reach out to me personally.
+
+[![Linkedin](https://img.shields.io/badge/Find_me_on_LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicovollmer/) [![img](https://custom-icon-badges.demolab.com/badge/eMail:-nicovollmer@icloud.com-red.svg?style=flat-square&logo=mail&logoColor=white)](https://qr.page/g/2G1hEXeKGEc)
 
 ## My Highlighed Projects
 
@@ -35,14 +45,6 @@ Several years work experience: daily reporting; VBA programming; Macros; Pivot; 
 
 ##### _Tableau_
 Experience with: Visualisation; Dashboard Design for dynamic reports; Stories.
-
-### Ways to Connect
-
-My goal is to enhance my knowledge and improve my skills. I am looking for new opportunities in Data Analytics and Business Intelligence and am available to work full-time in and around Düsseldorf, Germany. 
-
-Feel free to reach out to me personally to discuss my experience and the value I can offer.
-
-[![Linkedin](https://img.shields.io/badge/Find_me_on_LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicovollmer/) [![img](https://custom-icon-badges.demolab.com/badge/eMail:-nicovollmer@icloud.com-red.svg?style=flat-square&logo=mail&logoColor=white)](https://qr.page/g/2G1hEXeKGEc)
 
 ### Github Stats
 
