@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub Portfolio
 
-## Hi there! My name is Nicolas Vollmer and I'm a data analyst with business background.
+### Hi there! My name is Nicolas Vollmer and I'm a data analyst with business background.
 
 ### Ways to Connect
 
