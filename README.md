@@ -28,6 +28,7 @@ created new calculated columns and DAX measures. Finally, I used all this data t
 to analyze and visualize all of this data.
 
 [**2. Etsy Flower Girl Market Analysis**](https://github.com/NicolasVollmer/Etsy-Flower-Girl-Market-Analysis)
+
 For a friend who turned her hobby into a side-job, I attempt to analyze the market for [flower girl dresses](https://www.etsy.com/search?q=flower+girl+dress&explicit=1&order=highest_reviews&page=1&ref=pagination "flower girl dresses") on Etsy, an e-commerce platform. Her products are baptism gowns, as well as dresses for girls to attend wedding ceremonies, or any other formal occasion. Etsy is quite intransparant to sellers about their individual market segment, so I build a scraping tool that would download information like prices, sizing options, reviews, number of sales and more from individual listings in the flower girl category to later analyse for insights. 
 
 _Questions I sought to answer with my research:_
@@ -39,6 +40,7 @@ _Questions I sought to answer with my research:_
 * How could we drive up sales conversion and improve our rank (within reason)? I.e. Is there something we can do about pricing or our shop terms to improve traffic and drive sales? We want to examine the impact of pricing level on overall sales, and if a higher price may still lead to success. Additionally, could implementing an open returns policy drive conversion?
 
 [**3. A Gastro-Scene Showdown!**](https://github.com/NicolasVollmer/My_Ironhack_Mid-Bootcamp_Project)
+
 My wife and I love eating out together! Especially when travelling, we go through a lenghty process of finding the best restaurants for a good time. For this reason, I compared the restaurants from 10 European cities to find which destination generally has the best restaurants overall, and which restaurants are the go-to recommendations for each city! For data, I scraped reviews of restaurant businesses in these select cities from Google Maps.
 
 _Questions I sought to answer with my research:_
