@@ -15,6 +15,7 @@ Feel free to reach out to me personally.
 ## Project Showcase
 
 [**Adventure Works Cycles Power BI Dashboard**](https://app.powerbi.com/groups/me/reports/b507b2ef-6dd4-436c-8a7e-3b8c427cf190/ReportSection?ctid=59c174aa-68bf-4830-8882-230964810300&clientSideAuth=0)
+
 This is a link to my interactive Microsoft Power BI Dashboard which I completed during a course I took on Udemy. 
 
 Bear in mind that you may need Power BI access to review my work. With my report, you can review the business performance of Adventure Works Cycles, a fictional globally active manufacturing company. For this project, I was tasked with creating an end-to-end BI solution from scratch to enable the client to track core business KPIs like sales, revenues, profits and returns down to the product level and across sales territories. 
@@ -26,7 +27,7 @@ to blend information together, and then
 created new calculated columns and DAX measures. Finally, I used all this data to design an interactive dashboard report
 to analyze and visualize all of this data.
 
-[#####Etsy Flower Girl Market Analysis](https://github.com/NicolasVollmer/Etsy-Flower-Girl-Market-Analysis)
+[**Etsy Flower Girl Market Analysis**](https://github.com/NicolasVollmer/Etsy-Flower-Girl-Market-Analysis)
 For a friend who turned her hobby into a side-job, I attempt to analyze the market for [flower girl dresses](https://www.etsy.com/search?q=flower+girl+dress&explicit=1&order=highest_reviews&page=1&ref=pagination "flower girl dresses") on Etsy, an e-commerce platform. Her products are baptism gowns, as well as dresses for girls to attend wedding ceremonies, or any other formal occasion. Etsy is quite intransparant to sellers about their individual market segment, so I build a scraping tool that would download information like prices, sizing options, reviews, number of sales and more from individual listings in the flower girl category to later analyse for insights. 
 
 _Questions I sought to answer with my research:_
@@ -37,7 +38,7 @@ _Questions I sought to answer with my research:_
 	* As a "strech goal" I had also planned to make a pallette analysis of listing images and potentially a subject matter analyis to see wheter listings had a model in them or not (our client has no models in her listing photos) and whether this negatively impacts her business by contrasting it to the overall sales numbers of shops which use models.
 * How could we drive up sales conversion and improve our rank (within reason)? I.e. Is there something we can do about pricing or our shop terms to improve traffic and drive sales? We want to examine the impact of pricing level on overall sales, and if a higher price may still lead to success. Additionally, could implementing an open returns policy drive conversion?
 
-#####[A Gastro-Scene Showdown!](https://github.com/NicolasVollmer/My_Ironhack_Mid-Bootcamp_Project)
+[**A Gastro-Scene Showdown!**](https://github.com/NicolasVollmer/My_Ironhack_Mid-Bootcamp_Project)
 My wife and I love eating out together! Especially when travelling, we go through a lenghty process of finding the best restaurants for a good time. For this reason, I compared the restaurants from 10 European cities to find which destination generally has the best restaurants overall, and which restaurants are the go-to recommendations for each city! For data, I scraped reviews of restaurant businesses in these select cities from Google Maps.
 
 _Questions I sought to answer with my research:_
