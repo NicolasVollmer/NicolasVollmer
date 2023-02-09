@@ -14,7 +14,7 @@ Feel free to reach out to me personally.
 
 ## Project Showcase
 
-#####[Adventure Works Cycles Power BI Dashboard](https://app.powerbi.com/groups/me/reports/b507b2ef-6dd4-436c-8a7e-3b8c427cf190/ReportSection?ctid=59c174aa-68bf-4830-8882-230964810300&clientSideAuth=0)
+[#####Adventure Works Cycles Power BI Dashboard](https://app.powerbi.com/groups/me/reports/b507b2ef-6dd4-436c-8a7e-3b8c427cf190/ReportSection?ctid=59c174aa-68bf-4830-8882-230964810300&clientSideAuth=0)
 This is a link to my interactive Microsoft Power BI Dashboard which I completed during a course I took on Udemy. 
 
 Bear in mind that you may need Power BI access to review my work. With my report, you can review the business performance of Adventure Works Cycles, a fictional globally active manufacturing company. For this project, I was tasked with creating an end-to-end BI solution from scratch to enable the client to track core business KPIs like sales, revenues, profits and returns down to the product level and across sales territories. 
@@ -26,8 +26,7 @@ to blend information together, and then
 created new calculated columns and DAX measures. Finally, I used all this data to design an interactive dashboard report
 to analyze and visualize all of this data.
 
-
-#####[Etsy Flower Girl Market Analysis](https://github.com/NicolasVollmer/Etsy-Flower-Girl-Market-Analysis)
+[#####Etsy Flower Girl Market Analysis](https://github.com/NicolasVollmer/Etsy-Flower-Girl-Market-Analysis)
 For a friend who turned her hobby into a side-job, I attempt to analyze the market for [flower girl dresses](https://www.etsy.com/search?q=flower+girl+dress&explicit=1&order=highest_reviews&page=1&ref=pagination "flower girl dresses") on Etsy, an e-commerce platform. Her products are baptism gowns, as well as dresses for girls to attend wedding ceremonies, or any other formal occasion. Etsy is quite intransparant to sellers about their individual market segment, so I build a scraping tool that would download information like prices, sizing options, reviews, number of sales and more from individual listings in the flower girl category to later analyse for insights. 
 
 _Questions I sought to answer with my research:_
