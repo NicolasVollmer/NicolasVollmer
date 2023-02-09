@@ -14,7 +14,7 @@ Feel free to reach out to me personally.
 
 ## Project Showcase
 
-[#####Adventure Works Cycles Power BI Dashboard](https://app.powerbi.com/groups/me/reports/b507b2ef-6dd4-436c-8a7e-3b8c427cf190/ReportSection?ctid=59c174aa-68bf-4830-8882-230964810300&clientSideAuth=0)
+[**Adventure Works Cycles Power BI Dashboard**](https://app.powerbi.com/groups/me/reports/b507b2ef-6dd4-436c-8a7e-3b8c427cf190/ReportSection?ctid=59c174aa-68bf-4830-8882-230964810300&clientSideAuth=0)
 This is a link to my interactive Microsoft Power BI Dashboard which I completed during a course I took on Udemy. 
 
 Bear in mind that you may need Power BI access to review my work. With my report, you can review the business performance of Adventure Works Cycles, a fictional globally active manufacturing company. For this project, I was tasked with creating an end-to-end BI solution from scratch to enable the client to track core business KPIs like sales, revenues, profits and returns down to the product level and across sales territories. 
