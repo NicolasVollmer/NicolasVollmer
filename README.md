@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub Portfolio
 
-Hi, I'm Nicolas Vollmer! I have a unique combination of technical proficiency and business acumen, which allows me to effectively analyze data, communicate insights,and drive results. In my recent private data analytics projects I showcase below, I have demonstrated my ability to gather, process, and analyze large amounts of data, as well as my expertise in various data visualization and reporting tools such as Python, MS Power BI, Tableau, SQL, and Excel.
+Hi, I'm Nicolas Vollmer! I offer a unique combination of technical proficiency and business acumen, which allows me to effectively analyze data, communicate insights,and drive results. In my recent private data analytics projects I showcase below, I have demonstrated my ability to gather, process, and analyze large amounts of data, as well as my expertise in various data visualization and reporting tools such as Python, MS Power BI, Tableau, SQL, and Excel.
 
 I am driven to continuously enhance my knowledge and improve my skills in the field of Data Analytics and Business Intelligence. As a result, I am actively seeking new opportunities in these areas and am open to full-time work in and around Düsseldorf, Germany. My commitment to personal and professional growth, combined with my strong technical abilities, make me a valuable asset to any organization. Let's connect and see how I can bring value to your team.
 
