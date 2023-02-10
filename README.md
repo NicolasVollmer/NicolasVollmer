@@ -2,15 +2,13 @@
 
 # Welcome to my GitHub Portfolio
 
-### Hi there! My name is Nicolas Vollmer and I'm a data analyst with a business background. Please see below for a quick overview of some of my recent private data analytics projects. Below I also highlight some of the toolsets I am well-versed in, such as Python, MS Power BI and Tableau, SQL and Excel! If you seek further details on my professional background, feel free to look me up on LinkedIn or reach out to me personally!
+Hi, I'm Nicolas Vollmer! I have a unique combination of technical proficiency and business acumen, which allows me to effectively analyze data, communicate insights,and drive results. In my recent private data analytics projects I showcase below, I have demonstrated my ability to gather, process, and analyze large amounts of data, as well as my expertise in various data visualization and reporting tools such as Python, MS Power BI, Tableau, SQL, and Excel.
 
-### Ways to Connect
-
-A goal of mine is to enhance my knowledge and improve my skills. I am looking for new opportunities in Data Analytics and Business Intelligence and am available to work full-time in and around Düsseldorf, Germany. 
+I am driven to continuously enhance my knowledge and improve my skills in the field of Data Analytics and Business Intelligence. As a result, I am actively seeking new opportunities in these areas and am open to full-time work in and around Düsseldorf, Germany. My commitment to personal and professional growth, combined with my strong technical abilities, make me a valuable asset to any organization. Let's connect and see how I can bring value to your team.
 
 [![Linkedin](https://img.shields.io/badge/Find_me_on_LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicovollmer/) [![img](https://custom-icon-badges.demolab.com/badge/Send_me_an_eMail-red.svg?style=flat-square&logo=mail&logoColor=white)](mailto:nicovollmer@icloud.com)
 
-## Project Showcase
+## My Project Showcase
 
 [**1. Adventure Works Cycles Power BI Dashboard**](https://app.powerbi.com/groups/me/reports/b507b2ef-6dd4-436c-8a7e-3b8c427cf190/ReportSection?ctid=59c174aa-68bf-4830-8882-230964810300&clientSideAuth=0)
 
