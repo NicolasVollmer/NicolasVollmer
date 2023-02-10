@@ -32,7 +32,7 @@ _Questions I sought to answer with my research:_
 
 [**3. A Gastro-Scene Showdown!**](https://github.com/NicolasVollmer/My_Ironhack_Mid-Bootcamp_Project)
 
-My wife and I love eating out together! Especially when travelling, we go through a lenghty process of finding the best restaurants for a good time. For this reason, I compared the restaurants from 10 European cities to find which destination generally has the best restaurants overall, and which restaurants are the go-to recommendations for each city! For data, I scraped reviews of restaurant businesses in these select cities from Google Maps.
+My wife and I are avid foodies and enjoy dining out, especially when traveling. To find the best dining experiences, I compared restaurants across 10 European cities to determine which destination offers the finest dining options and which restaurants are the must-visits in each city. The data for my analysis was gathered by scraping restaurant reviews from Google Maps in the selected cities.
 
 _Questions I sought to answer with my research:_
 
@@ -42,9 +42,10 @@ _Questions I sought to answer with my research:_
 * City Restaurant Heatmaps - Where am I most likely to find a good restaurant? Are there any clusters?
 * "Ceap&Cheerful-Meter" (TM) - Which restaurants offer a good bang for your buck?
 
-
 ## About Me
-Data analytics has been a part of my career for many years! In the past I worked extensively on rate, occupancy and competitive analyses in the hospitality industry. I further look back on several successful years working on time-sensitive project cases for key consulting clients whilst with Guidepoint. For several years I have also trained colleagues on matters such as professional stakeholder communication and operative toolsets. Thanks to my many years of studying and working abroad, I bring along excellent communication skills in English, which has virtually become my second native language alongside German.
+Data analytics has been a part of my career for many years! In the past I worked extensively on rate, occupancy and competitive analyses in the hospitality industry. I further look back on several successful years working on time-sensitive project cases for key consulting clients whilst with Guidepoint. For several years, I have also trained colleagues on professional communication and the use of various workplace toolsets and procedures.
+
+With a strong background in both German and English, the result of several years of studying and working abroad, I am an excellent communicator and able to effectively collaborate with stakeholders from diverse backgrounds. I am confident that my combination of technical expertise and interpersonal skills make me a valuable asset to any organization.
 
 ### My Skills
 
