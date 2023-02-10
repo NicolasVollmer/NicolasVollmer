@@ -2,13 +2,11 @@
 
 # Welcome to my GitHub Portfolio
 
-### Hi there! My name is Nicolas Vollmer and I'm a data analyst with business background.
+### Hi there! My name is Nicolas Vollmer and I'm a data analyst with a business background. Please see below for a quick overview of some of my recent private data analytics projects. Below I also highlight some of the toolsets I am well-versed in, such as Python, MS Power BI and Tableau, SQL and Excel! If you seek further details on my professional background, feel free to look me up on LinkedIn or reach out to me personally!
 
 ### Ways to Connect
 
-My goal is to enhance my knowledge and improve my skills. I am looking for new opportunities in Data Analytics and Business Intelligence and am available to work full-time in and around Düsseldorf, Germany. 
-
-Feel free to reach out to me personally.
+A goal of mine is to enhance my knowledge and improve my skills. I am looking for new opportunities in Data Analytics and Business Intelligence and am available to work full-time in and around Düsseldorf, Germany. 
 
 [![Linkedin](https://img.shields.io/badge/Find_me_on_LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicovollmer/) [![img](https://custom-icon-badges.demolab.com/badge/Send_me_an_eMail-red.svg?style=flat-square&logo=mail&logoColor=white)](mailto:nicovollmer@icloud.com)
 
