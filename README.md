@@ -20,7 +20,7 @@ Starting from a folder of raw data in CSV format, I used Power BI Desktop to con
 
 [**2. Etsy Flower Girl Market Analysis**](https://github.com/NicolasVollmer/Etsy-Flower-Girl-Market-Analysis)
 
-I recently conducted market analysis for a friend who runs a side-business on Etsy selling [flower girl dresses](https://www.etsy.com/search?q=flower+girl+dress&explicit=1&order=highest_reviews&page=1&ref=pagination "flower girl dresses") for formal occasions like weddings and baptisms. The platform is not transparent to sellers about their individual market segment, so I built a scraping tool to gather information such as prices, sizing options, reviews, number of sales, and more from individual listings in the flower girl category. The goal was to provide insights and recommendations to help my friend's business succeed on the Etsy platform.
+I recently conducted a market analysis for a friend who runs a side-business on Etsy selling [flower girl dresses](https://www.etsy.com/search?q=flower+girl+dress&explicit=1&order=highest_reviews&page=1&ref=pagination "flower girl dresses") for formal occasions like weddings and baptisms. The platform is not transparent to sellers about their individual market segment, so I built a scraping tool to gather information such as prices, sizing options, reviews, number of sales, and more from individual listings in the flower girl category. The goal was to provide insights and recommendations to help my friend's business succeed on the Etsy platform.
 
 _Questions I sought to answer with my research:_
 
